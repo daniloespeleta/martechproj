@@ -1,9 +1,8 @@
-# sql-crm-portfolio
 # SQL para CRM & Marketing Operations 🚀
 
 Este repositório reúne uma coleção completa de casos de estudo práticos focados na aplicação de **SQL** para otimização de CRM, identificação de **Sales Qualified Leads (SQLs)** e inteligência de vendas.
 
-> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e Marketing Operations, demonstrando a extração de inteligência de dados, identificação de SQLs e otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e automação de processos de negócio.
+> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e a Marketing Operations, demonstrando a extração de inteligência de dados, a identificação de SQLs e a otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e na automação de processos de negócio.
 
 ---
 
