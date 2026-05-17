@@ -1,4 +1,4 @@
-# ⚔️ Caso 5: O Resgate da Elite (Lógica de Precedência)
+# ⚔️ Caso 5: Lógica de Precedência
 
 ### 📌 Contexto
 Este caso demonstra o uso estratégico de lógica booleana avançada para recuperar oportunidades de alto valor que esfriaram no funil comercial por falta de interação.
