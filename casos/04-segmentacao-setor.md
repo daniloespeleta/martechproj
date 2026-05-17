@@ -1,7 +1,7 @@
-# 🎯 Caso 4: O Filtro de Precisão (Segmentação por Setor)
+# 🎯 Caso 4: Segmentação por Setor
 
 ### 📌 Contexto
-Este caso demonstra a segmentação cirúrgica de base para campanhas personalizadas de nicho, visando ao aumento do engajamento e da conversão.
+Este caso demonstra a segmentação cirúrgica para campanhas personalizadas de nicho, visando aumentar o engajamento e a conversão.
 
 ---
 
