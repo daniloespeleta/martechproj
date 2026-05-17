@@ -2,7 +2,7 @@
 
 Este repositório reúne uma série de projetos e casos de estudo práticos focados na aplicação de **SQL** para otimização de CRM, identificação de **Sales Qualified Leads (SQLs)** e inteligência de vendas.
 
-> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e Marketing Operations. Utiliza a metodologia S.T.A.R. para demonstrar a extração de inteligência de dados, a identificação de SQLs e a otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e automatizar processos de negócio.
+> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e Marketing Operations. Os casa demonstram a extração de inteligência de dados, a identificação de SQLs e a otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e automatizar processos de negócio.
 
 ---
 
@@ -20,21 +20,6 @@ Abaixo, os links para cada projeto detalhado dentro deste repositório:
     * Agregação de dados para visualização de gargalos no funil de vendas.
 5.  **[💰 Caso 5: Análise de Rentabilidade](./casos/05-ticket-medio.md)**
     * Cálculo do ticket médio por setor para otimização de ROI em mídia.
----
-
-## 🐍 Quer ver a camada de modelagem?
-
-SQL extrai e organiza. Python modela, prediz e automatiza decisões. Os dois repositórios formam uma stack completa de CRM analytics.
-
-**[→ python-crm-portfolio](https://github.com/daniloespeleta/python-crm-portfolio)** — segmentação RFM, predição de churn, lead scoring, análise de coorte, teste A/B e dashboard interativo.
-
-| Este repositório | python-crm-portfolio |
-|---|---|
-| Extração e agregação de dados | Modelagem e predição |
-| Qualificação de leads (SQL) | Lead scoring (probabilidade) |
-| Métricas de funil e ROI | Análise de coorte e retenção |
-| Segmentação por critérios | Clusterização K-Means (RFM) |
-| Consultas para decisão manual | Outputs para automação de CRM |
 ---
 
 ## 📜 Licença
