@@ -1,4 +1,4 @@
-# 🔗 Caso 3: Visão 360º de Customer Success
+# 🔗 Caso 3: Visão 360° de Customer Success
 
 ### 📌 Contexto
 Estratégia de Customer Success focada na ativação de novos clientes para reduzir o churn precoce por meio do cruzamento de dados.
@@ -42,6 +42,6 @@ graph LR
 ---
 
 ### 💡 Explicação de Negócio
-O sucesso do cliente começa no Onboarding[cite: 4]. Se o cliente pagar pelo serviço e não o utilizar, ele cancelará. O SQL atua como um radar para identificar o gap entre o cadastro e o uso, permitindo que a empresa intervenha de forma proativa antes que o cliente desista da solução, protegendo o LTV (Lifetime Value).
+O sucesso do cliente começa no onboarding. Se o cliente pagar pelo serviço e não o utilizar, o serviço será cancelado. O SQL atua como um radar para identificar o gap entre o cadastro e o uso, permitindo que a empresa intervenha de forma proativa antes que o cliente desista da solução, protegendo o LTV (Lifetime Value).
 
 [⬅️ Voltar para o README Principal](https://github.com/daniloespeleta/sql-crm-portfolio/blob/main/README.md)
