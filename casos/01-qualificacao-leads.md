@@ -11,11 +11,10 @@ Em uma operação de marketing de alto volume de entrada, o time de vendas enfre
 ---
 
 ### 💻 Código SQL
-
-```sql
 Objetivo: Identificar SQLs (Sales Qualified Leads)
 Critérios: Cargo de decisão, Score elevado e Status 'Novo'
 
+```sql
 SELECT 
     nome, 
     email, 
