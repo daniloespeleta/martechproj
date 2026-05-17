@@ -49,4 +49,4 @@ graph LR
 ### 💡 Explicação de Negócio
 O valor real de Marketing Operations está em otimizar o recurso mais caro de uma empresa: o tempo das pessoas. Ao aplicar filtros de precisão, o Marketing deixa de entregar "volume" e passa a entregar "oportunidade". Esta query garante que o esforço humano seja direcionado apenas para onde existe real potencial de receita, otimizando o CAC (Custo de Aquisição de Cliente) ao eliminar o desperdício de energia em leads desqualificados.  
 
-[⬅️ Voltar para o README Principal.(README.md)]
+[⬅️ Voltar para o README Principal.](README.md)
