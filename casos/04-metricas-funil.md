@@ -1,4 +1,4 @@
-# 📊 Caso 4: Agregação de funil
+# 📊 Caso 4: Agregação de Funil
 
 ### 📌 Contexto
 Análise volumétrica do pipeline de vendas para a gestão de capacidade e a detecção de gargalos operacionais.
