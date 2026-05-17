@@ -2,7 +2,7 @@
 
 Este repositório reúne uma série de projetos e casos de estudo práticos focados na aplicação de **SQL** para otimização de CRM, identificação de **Sales Qualified Leads (SQLs)** e inteligência de vendas.
 
-> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e Marketing Operations. Os casa demonstram a extração de inteligência de dados, a identificação de SQLs e a otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e automatizar processos de negócio.
+> **Descrição:** Casos de estudo práticos em SQL aplicados a CRM e Marketing Operations. Os casos demonstram a extração de inteligência de dados, a identificação de SQLs e a otimização de funis de vendas. Focado em transformar dados brutos em decisões estratégicas e automatizar processos de negócio.
 
 ---
 
