@@ -12,7 +12,7 @@ Este repositório reúne uma coleção completa de casos de estudo práticos foc
 2.  **[🔗 Caso 2: Joins e Visão 360º da jornada](./casos/02-joins-jornada.md)**
 3.  **[📈 Caso 3: Agregação e Métricas de ROI](./casos/03-agregacao-roi.md)**
 4.  **[🎯 Caso 4: Segmentação por Setor](./casos/04-segmentacao-setor.md)**
-5.  **[⚔️ Caso 5: Lógica de Precedência (AND/OR)](./casos/05-and-or.md)**
+5.  **[⚔️ Caso 5: Lógica de Precedência (AND/OR)](./casos/05-logica-precedencia.md)**
 6.  **[🛡️ Caso 6: Visão 360º para retenção](./casos/06-retencao.md)**
 7.  **[📊 Caso 7: Agregação de Funil](./casos/07-agregacao-funil.md)**
 8.  **[💰 Caso 8: Ticket-Médio por Segmento](./casos/08-ticket-medio-segmento.md)**
