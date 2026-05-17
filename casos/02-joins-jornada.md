@@ -1,4 +1,4 @@
-# 🔗 Caso 2: O Elo Perdido (Joins e Visão 360º)
+# 🔗 Caso 2: Joins e Visão 360º
 
 ### 📌 Contexto
 Este caso aborda a integração de dados entre diferentes etapas da jornada do cliente para identificar falhas em que leads engajados não recebem acompanhamento comercial.
@@ -47,7 +47,7 @@ graph LR
 ---
 
 ### 💡 Explicação de Negócio
-Esta query resolve o problema do "Lead Fantasma", identificando quem demonstra clara intenção de compra, mas permanece invisível para o comercial devido a falhas de integração sistêmica. O uso do LEFT JOIN com filtro nulo permite auditar processos e garantir que nenhuma oportunidade qualificada seja perdida, otimizando a conversão do funil.
+Esta query resolve o problema do "Lead Fantasma", identificando quem demonstra clara intenção de compra, mas permanece invisível para o comercial devido a falhas na integração sistêmica. O uso do LEFT JOIN com filtro nulo permite auditar processos e garantir que nenhuma oportunidade qualificada seja perdida, otimizando a conversão ao longo do funil.
 
 ---
 [⬅️ Voltar para o README Principal](../README.md)
