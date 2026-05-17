@@ -1,4 +1,4 @@
-# 📈 Caso 3: A Bússola de Crescimento (Agregação e Métricas)
+# 📈 Caso 3: Agregação e Métricas
 
 ### 📌 Contexto
 Este caso foca na análise de desempenho dos canais de aquisição para a otimização estratégica do orçamento de mídia paga.
