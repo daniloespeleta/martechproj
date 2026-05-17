@@ -22,6 +22,21 @@ Abaixo, os links para cada projeto detalhado dentro deste repositório:
     * Cálculo do ticket médio por setor para otimização de ROI em mídia.
 ---
 
+## 🐍 Quer ver a camada de modelagem?
+
+SQL extrai e organiza. Python modela, prediz e automatiza decisões. Os dois repositórios formam uma stack completa de CRM analytics.
+
+**[→ python-crm-portfolio](https://github.com/daniloespeleta/python-crm-portfolio)** — segmentação RFM, predição de churn, lead scoring, análise de coorte, teste A/B e dashboard interativo.
+
+| Este repositório | python-crm-portfolio |
+|---|---|
+| Extração e agregação de dados | Modelagem e predição |
+| Qualificação de leads (SQL) | Lead scoring (probabilidade) |
+| Métricas de funil e ROI | Análise de coorte e retenção |
+| Segmentação por critérios | Clusterização K-Means (RFM) |
+| Consultas para decisão manual | Outputs para automação de CRM |
+---
+
 ## 📜 Licença
 Distribuído sob a licença **MIT**. Veja o arquivo `LICENSE` para mais detalhes.
 
