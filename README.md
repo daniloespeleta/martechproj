@@ -12,12 +12,16 @@ Abaixo, os links para cada projeto detalhado dentro deste repositório:
 
 **[Caso 1: Filtros e Qualificação](./casos/01-qualificacao-leads.md)**
     * Identificação de SQLs através de filtros de cargo e score.
+
 **[Caso 2: Lógica de Precedência](./casos/02-logica-precedencia.md)**
     * Uso de lógica booleana e parênteses para recuperar leads inativos.
+
 **[Caso 3: Visão 360º de Customer Success](./casos/03-visao-360-cs.md)**
     * Uso de `LEFT JOIN` para identificar lacunas de ativação (gaps de receita).
+
 **[Caso 4: Agregação de Funil](./casos/04-metricas-funil.md)**
     * Agregação de dados para visualização de gargalos no funil de vendas.
+
 **[Caso 5: Análise de Rentabilidade](./casos/05-ticket-medio.md)**
     * Cálculo do ticket médio por setor para otimização de ROI em mídia.
 ---
