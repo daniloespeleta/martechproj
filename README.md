@@ -24,6 +24,7 @@ Abaixo, os links para cada projeto detalhado dentro deste repositório:
 
 **[Caso 5: Análise de Rentabilidade](./casos/05-ticket-medio.md)**
     * Cálculo do ticket médio por setor para otimização de ROI em mídia.
+    
 ---
 
 ## 📜 Licença
