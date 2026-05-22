@@ -4,13 +4,13 @@
 ![Queries](https://img.shields.io/badge/Queries-30-brightgreen?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-> A library of 30 documented SQL queries for marketing analytics — covering customer segmentation, engagement scoring, campaign reporting, and data hygiene. Written for MySQL with BigQuery equivalency comments throughout. Designed for marketing analysts, CRM managers, and marketing operations professionals who need production-ready queries they can adapt to their own stack.
+> A library of documented SQL queries for marketers, covering customer segmentation, engagement scoring, campaign reporting, and data hygiene. Written for MySQL with BigQuery equivalency comments throughout. Designed for marketing analysts, CRM managers, and marketing operations professionals who need production-ready queries they can adapt to their own stack.
 
 ---
 
 ## Schema
 
-All queries reference a generic CRM/marketing schema. Column names follow common conventions used by platforms like HubSpot, RD Station, and Salesforce — adapt as needed for your environment.
+All queries reference a generic CRM/marketing schema. Column names follow common conventions used by platforms like HubSpot, RD Station, and Salesforce.
 
 ```sql
 -- contacts
@@ -156,6 +156,16 @@ All queries are parameterized with clearly labeled constants at the top of each 
 ## Adapting to Your Schema
 
 Each query includes a `-- Schema note:` comment at the top mapping the generic column names to common alternatives found in HubSpot, Salesforce, RD Station, and Klaviyo. Swap the table and column names to match your environment — the logic stays the same.
+
+---
+
+## Tech Stack
+
+```
+CRM & Platforms:     HubSpot · RD Station · Salesforce · Klaviyo
+Languages:           SQL
+Tools:               Git · GitHub · MySQL · BigQuery
+```
 
 ---
 
